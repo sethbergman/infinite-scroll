@@ -1,0 +1,27 @@
+{
+  "name": "ajax-infinite-scroll",
+  "version": "1.0.0",
+  "description": "Infinite Scrolling and Back to Top",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sethbergman/infinite-scroll"
+  },
+  "keywords": [
+    "ajax",
+    "infinite",
+    "scroll",
+    "back",
+    "to",
+    "top"
+  ],
+  "author": "Seth Bergman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sethbergman/infinite-scroll/issues"
+  },
+  "homepage": "https://github.com/sethbergman/infinite-scroll#readme"
+}
